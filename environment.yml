@@ -1,0 +1,15 @@
+name: rag_v3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - poppler
+  - pip:
+      - transformers==4.39.0
+      - paddlepaddle-gpu==2.6.2
+      - paddleocr==3.2.0
+      - pdf2image==1.17.0
+      - numpy
+      # torch는 CUDA 빌드 의존으로 별도 설치(아래 단계 1-2 참고)

@@ -1,0 +1,4760 @@
+{
+  "pdf": "test.pdf",
+  "pages": [
+    {
+      "page_index": 0,
+      "results": {
+        "gray": {
+          "words": [
+            "$T청陽튼t*t'_yl존EJ지+되_y+되"
+          ],
+          "boxes": [
+            [
+              0,
+              0,
+              999,
+              999
+            ]
+          ],
+          "avg_conf": 0.6365818381309509,
+          "score": 0.6365818381309509
+        },
+        "invert": {
+          "words": [
+            "v망J'用經En든b드bE었$관n철u_ylo존EJ지+율I_y+되"
+          ],
+          "boxes": [
+            [
+              0,
+              0,
+              999,
+              999
+            ]
+          ],
+          "avg_conf": 0.7944381237030029,
+          "score": 0.7944381237030029
+        },
+        "adaptive_thresh": {
+          "words": [
+            "아kE 00HTuf운}z초w지+道u요y촌hnmTr+되"
+          ],
+          "boxes": [
+            [
+              0,
+              0,
+              999,
+              999
+            ]
+          ],
+          "avg_conf": 0.9310531616210938,
+          "score": 0.9310531616210938
+        },
+        "tile_polarity": {
+          "words": [
+            "타ij녀제山군Lir帝등형i덩덩i가확_yl+EJ지+A확-V+되"
+          ],
+          "boxes": [
+            [
+              0,
+              0,
+              999,
+              999
+            ]
+          ],
+          "avg_conf": 0.9394103288650513,
+          "score": 0.9394103288650513
+        }
+      },
+      "best_mode": "tile_polarity"
+    },
+    {
+      "page_index": 1,
+      "results": {
+        "gray": {
+          "words": [
+            "F+rttUlyLg먹r古초Ei지+되I이_yI초E죽+되"
+          ],
+          "boxes": [
+            [
+              0,
+              0,
+              999,
+              999
+            ]
+          ],
+          "avg_conf": 0.9310531616210938,
+          "score": 0.9310531616210938
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 2,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 3,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 4,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 5,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 6,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 7,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 8,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 9,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 10,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 11,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 12,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 13,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 14,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 15,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 16,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 17,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 18,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 19,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 20,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 21,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 22,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 23,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 24,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 25,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 26,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 27,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 28,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 29,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 30,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 31,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 32,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 33,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 34,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 35,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 36,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 37,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 38,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 39,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 40,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 41,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 42,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 43,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 44,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 45,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 46,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 47,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 48,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 49,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 50,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 51,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 52,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 53,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 54,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 55,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 56,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 57,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 58,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 59,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 60,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 61,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 62,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 63,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 64,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 65,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 66,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 67,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 68,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 69,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 70,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 71,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 72,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 73,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 74,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 75,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 76,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 77,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 78,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 79,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 80,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 81,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 82,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 83,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 84,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 85,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 86,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 87,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 88,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 89,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 90,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 91,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 92,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 93,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 94,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 95,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 96,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 97,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 98,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 99,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 100,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 101,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 102,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 103,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 104,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 105,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 106,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 107,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 108,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 109,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 110,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 111,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 112,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 113,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 114,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 115,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 116,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 117,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 118,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 119,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 120,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 121,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 122,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 123,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 124,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 125,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 126,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 127,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 128,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 129,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 130,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 131,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 132,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 133,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 134,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 135,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 136,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 137,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 138,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 139,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 140,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 141,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 142,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 143,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 144,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 145,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 146,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 147,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 148,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 149,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 150,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 151,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 152,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 153,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 154,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 155,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    },
+    {
+      "page_index": 156,
+      "results": {
+        "gray": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "invert": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "adaptive_thresh": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        },
+        "tile_polarity": {
+          "words": [],
+          "boxes": [],
+          "avg_conf": 0.0,
+          "score": 0.0
+        }
+      },
+      "best_mode": "gray"
+    }
+  ]
+}
