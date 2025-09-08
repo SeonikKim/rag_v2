@@ -6,12 +6,12 @@ from pymilvus import connections, FieldSchema, CollectionSchema, DataType, Colle
 
 
 def pdf_to_images(pdf_path: str):
-    """Convert a PDF into a list of PIL images."""
+    """PDF 파일을 PIL 이미지 목록으로 변환합니다."""
     return convert_from_path(pdf_path)
 
 
 def run_ocr(images):
-    """Run PaddleOCR on each image page."""
+    """각 이미지 페이지에서 PaddleOCR을 실행합니다."""
     ocr = PaddleOCR(use_angle_cls=True, lang="en")
     results = []
     for page_no, img in enumerate(images, start=1):
@@ -21,7 +21,7 @@ def run_ocr(images):
 
 
 def embed_layoutlm(ocr_results):
-    """Generate embeddings with LayoutLMv3-base for each OCR line."""
+    """OCR 결과의 각 줄에 대해 LayoutLMv3-base 임베딩을 생성합니다."""
     tokenizer = AutoTokenizer.from_pretrained("microsoft/layoutlmv3-base")
     model = AutoModel.from_pretrained("microsoft/layoutlmv3-base")
     texts, embeddings = [], []
@@ -37,7 +37,7 @@ def embed_layoutlm(ocr_results):
 
 
 def init_milvus(collection_name: str = "documents", dim: int = 768):
-    """Connect to Milvus and create a collection if it doesn't exist."""
+    """Milvus에 연결하고 컬렉션이 없으면 생성합니다."""
     connections.connect(alias="default", host="localhost", port="19530")
     fields = [
         FieldSchema(name="id", dtype=DataType.INT64, is_primary=True, auto_id=True),
@@ -51,12 +51,13 @@ def init_milvus(collection_name: str = "documents", dim: int = 768):
 
 
 def insert_milvus(collection: Collection, texts, embeddings):
-    """Insert embeddings into Milvus."""
+    """임베딩을 Milvus에 삽입합니다."""
     collection.insert([texts, embeddings])
     collection.flush()
 
 
 def process_pdf(pdf_path: str):
+    """PDF를 처리하여 텍스트 임베딩을 저장합니다."""
     images = pdf_to_images(pdf_path)
     ocr_results = run_ocr(images)
     texts, embeddings = embed_layoutlm(ocr_results)
@@ -69,7 +70,7 @@ if __name__ == "__main__":
     import sys
 
     if len(sys.argv) < 2:
-        print("Usage: python rag_pipeline.py <pdf-path>")
+        print("사용법: python rag_pipeline.py <pdf-path>")
         raise SystemExit(1)
     count = process_pdf(sys.argv[1])
-    print(f"Inserted {count} segments into Milvus")
+    print(f"Milvus에 {count}개의 세그먼트를 삽입했습니다")
